@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\FileWatcher\ClientBox\ClientBox\bin\Release\ClientBox.exe
+C:\Users\User\Desktop\FileWatcher\ClientBox\ClientBox\bin\Release\ClientBox.pdb
+C:\Users\User\Desktop\FileWatcher\ClientBox\ClientBox\bin\Release\Library.dll
+C:\Users\User\Desktop\FileWatcher\ClientBox\ClientBox\bin\Release\Library.pdb
+C:\Users\User\Desktop\FileWatcher\ClientBox\ClientBox\obj\x86\Release\ClientBox.exe
+C:\Users\User\Desktop\FileWatcher\ClientBox\ClientBox\obj\x86\Release\ClientBox.pdb
+C:\Users\User\Desktop\FileWatcher\ClientBox\ClientBox\obj\x86\Release\ClientBox.csprojResolveAssemblyReference.cache

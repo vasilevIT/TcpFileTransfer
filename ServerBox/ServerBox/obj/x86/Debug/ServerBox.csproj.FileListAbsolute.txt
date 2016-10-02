@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\FileWatcher\ServerBox\ServerBox\bin\Debug\ServerBox.exe
+C:\Users\User\Desktop\FileWatcher\ServerBox\ServerBox\bin\Debug\ServerBox.pdb
+C:\Users\User\Desktop\FileWatcher\ServerBox\ServerBox\bin\Debug\Library.dll
+C:\Users\User\Desktop\FileWatcher\ServerBox\ServerBox\bin\Debug\Library.pdb
+C:\Users\User\Desktop\FileWatcher\ServerBox\ServerBox\obj\x86\Debug\ServerBox.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\FileWatcher\ServerBox\ServerBox\obj\x86\Debug\ServerBox.exe
+C:\Users\User\Desktop\FileWatcher\ServerBox\ServerBox\obj\x86\Debug\ServerBox.pdb
